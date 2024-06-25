@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nosense-ecommerce/static/css/main.801baa56.css",
-    "main.js": "/nosense-ecommerce/static/js/main.7459ead0.js",
+    "main.js": "/nosense-ecommerce/static/js/main.e9adf71d.js",
     "static/media/about2.webp": "/nosense-ecommerce/static/media/about2.334f9b32278ebcc28575.webp",
     "static/media/bannerImg.jpg": "/nosense-ecommerce/static/media/bannerImg.c3bbfbd497f4b0a6b1d3.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/nosense-ecommerce/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -43,10 +43,10 @@
     "static/media/slick.woff": "/nosense-ecommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nosense-ecommerce/index.html",
     "main.801baa56.css.map": "/nosense-ecommerce/static/css/main.801baa56.css.map",
-    "main.7459ead0.js.map": "/nosense-ecommerce/static/js/main.7459ead0.js.map"
+    "main.e9adf71d.js.map": "/nosense-ecommerce/static/js/main.e9adf71d.js.map"
   },
   "entrypoints": [
     "static/css/main.801baa56.css",
-    "static/js/main.7459ead0.js"
+    "static/js/main.e9adf71d.js"
   ]
 }
