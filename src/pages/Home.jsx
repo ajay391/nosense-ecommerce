@@ -256,10 +256,7 @@ const Home = () => {
                     </div>
                   </div> */}
                  
-                 <a className='instal_follow_btn' href='https://instagram.com/nosense_studio?igshid=MzRlODBiNWFlZA=='>Follow <span><BsArrowRight />
-
-
-                 </span> </a>
+                 <a className='instal_follow_btn' href='https://instagram.com/nosense_studio?igshid=MzRlODBiNWFlZA=='>Follow <span className="follow-arrow"><BsArrowRight /></span> </a>
                 </div>
               </div>
             </Col>

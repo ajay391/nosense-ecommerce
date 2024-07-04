@@ -278,7 +278,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2rem 0rem ;
+  padding: 1rem 0rem ;
   /* color: rgb(36, 33, 33); */
 }
 
@@ -325,15 +325,25 @@
   color: #ffffff;
   background-color: #181717;
   padding: .5rem .8rem;
-  transition: all 0.2s linear;
+  transition: 0.2s ;
   /* padding: 16px 18px 15px; */
 
   
 }
+
+/* .follow-arrow{
+  position: relative;
+  top: -1px;
+} */
 .instal_follow_btn:hover{
   color: #ffffff;
   transform: scale(1.05);
 
+}
+
+.instal_follow_btn:hover .follow-arrow svg{
+  transition:  0.4s ease-out;
+  transform: translateX(4px);
 }
 
 .insta__container{

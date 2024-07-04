@@ -4,7 +4,8 @@
   }
 .homeSlide h1 {
     color: #fff;
-    font-size: 45px;
+    /* font-size: 5.5vw; */
+    font-size: 60px;
     line-height: 55px;
     margin: 20px 0 20px 0;
   }
@@ -128,8 +129,8 @@
 @media only screen and (max-width:768px){
 
   .homeSlide h1 {
-    font-size: 2.5em;
-    line-height: 45px;
+    font-size: 60px;
+    /* line-height: 45px; */
   }
 
   .slide__box{
@@ -146,5 +147,8 @@
   .slide__box{
     padding: 5rem 1rem;
   }
- 
+  .homeSlide h1 {
+    font-size: 2.5em;
+    /* line-height: 45px; */
+  }
 }

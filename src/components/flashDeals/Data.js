@@ -1,4 +1,4 @@
-
+  
 import c1 from '../../assets/images/Category/category1.jpg'
 import c2 from '../../assets/images/Category/category2.jpg'
 import c3 from '../../assets/images/Category/category3.jpg'
