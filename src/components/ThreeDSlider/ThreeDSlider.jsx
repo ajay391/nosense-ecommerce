@@ -9,15 +9,15 @@ import 'swiper/css/navigation';
 
 import { EffectCoverflow, Autoplay , FreeMode} from 'swiper/modules';
 
-import slide_image_1 from '../../assets/images/ins3.webp';
-import slide_image_2 from '../../assets/images/ins2.webp';
-import slide_image_3 from '../../assets/images/trend2.webp';
-import slide_image_4 from '../../assets/images/ins4.webp';
-import slide_image_5 from '../../assets/images/ins5.webp';
-import slide_image_6 from '../../assets/images/ins6.webp';
-import slide_image_7 from '../../assets/images/ins7.webp';
-import slide_image_8 from '../../assets/images/ins8.webp';
-import slide_image_9 from '../../assets/images/ins9.webp';
+import slide_image_6 from '../../assets/images/insta/ins3.jpg';
+import slide_image_2 from '../../assets/images/insta/ins2.jpg';
+import slide_image_3 from '../../assets/images/insta/trend2.jpg';
+import slide_image_8 from '../../assets/images/insta/ins4.jpg';
+import slide_image_5 from '../../assets/images/insta/ins5.jpg';
+import slide_image_1 from '../../assets/images/insta/ins6.jpg';
+import slide_image_7 from '../../assets/images/insta/ins7.jpg';
+import slide_image_4 from '../../assets/images/insta/ins8.jpg';
+import slide_image_9 from '../../assets/images/insta/ins9.jpg';
 
 import {Col ,Row} from 'reactstrap';
 

@@ -1,0 +1,70 @@
+/* custom-dropdown.css */
+
+.custom-dropdown-toggle{
+    background-color: white;
+    color: #000;
+    border-radius: 0;
+    margin: 0 auto;
+}
+
+.custom-dropdown .dropdown-toggle {
+    background-color: #ffffff; 
+    color: rgb(19, 18, 18); 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 0px; 
+    font-size: 16px; 
+    border:1px solid black;
+  }
+  
+  .custom-dropdown .dropdown-toggle:focus,
+  .custom-dropdown .dropdown-toggle:hover {
+    background-color: #111111; 
+    color: rgb(255, 255, 255); 
+  }
+  
+  .custom-dropdown-menu {
+    background-color: #f9f9f9; /* Light grey background */
+    border: none; /* No border */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Box shadow */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  .custom-dropdown-menu .dropdown-item {
+    color: #333; /* Dark grey text */
+    padding: 10px 20px; /* Padding */
+    font-size: 14px; /* Font size */
+  }
+  
+  .custom-dropdown-menu .dropdown-item:hover {
+    background-color: #f1f1f1; /* Slightly darker grey on hover */
+    color: #000; /* Black text */
+  }
+
+  /* @media only screen and (max-width:576px){
+    .shoping__list{
+        padding: 0px 10px;
+    }
+  }
+   */
+
+   
+   .filter-section , .shop-page-url{
+       padding:0px 20px;
+    }
+
+    .shop-page-url{
+     margin: 20px 0px;
+    }
+    .filter-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 10px 0px;
+   }
+
+   @media only screen and (max-width:576px){
+    .filter-section p{
+        font-size: 16px;
+   }
+  }

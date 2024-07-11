@@ -193,7 +193,7 @@ const Home = () => {
             <Col lg='12' className='text-end'>
               <Link to={shop} className='popular__view__all'><span>View All</span></Link>
             </Col>
-            <ProductList data={data}/>
+            <ProductList data={data} colSize={{ lg: 3, md: 3 }}/>
             {/* <ProductList /> */}
           </Row>
         </Container>

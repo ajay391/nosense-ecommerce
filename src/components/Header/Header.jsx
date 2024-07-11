@@ -11,7 +11,7 @@ import "./header.css"
 
 const nav__link =[
     {
-        path:"/home",
+        path:"/",
         display: "Home"
 
     },

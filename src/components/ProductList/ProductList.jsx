@@ -1,13 +1,13 @@
 
 import ProductCard from './ProductCard';
 
-const ProductList = ({data}) => {
+const ProductList = ({data , colSize}) => {
  
 
   return (
     <>
       {data.map(item => (
-        <ProductCard key={item._id} item={item} />
+        <ProductCard key={item._id} item={item} colSize={colSize}/>
       ))}
 
     </>

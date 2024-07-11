@@ -13,7 +13,7 @@ const Routers = () => {
 
   console.log('roye')
   return <Routes>
-    <Route path = "*" element={<Navigate to='/' />} />
+    {/* <Route path = "*" element={<Navigate to='/' />} /> */}
     <Route path="/" element={<Home/>} />
     <Route path="/shop" element={<Shop/>} />
     <Route path="/shop/:id" element={<ProductDetails/>} />
